@@ -1,0 +1,124 @@
+# depslib dependency file v1.0
+1359075099 source:c:\users\lenovo\desktop\codeblocks\yeah\tic\game.cpp
+	"game.h"
+	"player.h"
+	"board.h"
+
+1359074344 c:\users\lenovo\desktop\codeblocks\yeah\tic\game.h
+	"player.h"
+	"board.h"
+	<iostream>
+
+1359073369 c:\users\lenovo\desktop\codeblocks\yeah\tic\player.h
+	<string>
+	<iostream>
+
+1359074344 c:\users\lenovo\desktop\codeblocks\yeah\tic\board.h
+	<iostream>
+
+1359073369 source:c:\users\lenovo\desktop\codeblocks\yeah\tic\main.cpp
+	<iostream>
+	"game.h"
+
+1359073369 source:c:\users\lenovo\desktop\codeblocks\yeah\tic\player.cpp
+	"player.h"
+	"Game.h"
+
+1359074371 source:c:\users\lenovo\desktop\codeblocks\yeah\tic\board.cpp
+	"board.h"
+	"player.h"
+	<iostream>
+
+1359374268 source:d:\tic\board.cpp
+	"board.h"
+	"player.h"
+	<iostream>
+
+1359373930 d:\tic\board.h
+	<iostream>
+
+1358689704 d:\tic\player.h
+	<string>
+	<iostream>
+
+1358689704 source:d:\tic\main.cpp
+	<iostream>
+	"game.h"
+
+1359373930 d:\tic\game.h
+	"player.h"
+	"board.h"
+	<iostream>
+
+1358689704 source:d:\tic\player.cpp
+	"player.h"
+	"Game.h"
+
+1359374112 source:d:\tic\game.cpp
+	"game.h"
+	"player.h"
+	"board.h"
+	<iostream>
+
+1359316668 source:e:\tic\board.cpp
+	"board.h"
+	"player.h"
+	<iostream>
+
+1359316330 e:\tic\board.h
+	<iostream>
+
+1358632104 e:\tic\player.h
+	<string>
+	<iostream>
+
+1359316512 source:e:\tic\game.cpp
+	"game.h"
+	"player.h"
+	"board.h"
+	<iostream>
+
+1359316330 e:\tic\game.h
+	"player.h"
+	"board.h"
+	<iostream>
+
+1358632104 source:e:\tic\main.cpp
+	<iostream>
+	"game.h"
+
+1358632104 source:e:\tic\player.cpp
+	"player.h"
+	"Game.h"
+
+1359493127 source:c:\users\temp.arcinue\documents\github\tic\board.cpp
+	"board.h"
+	"player.h"
+	<iostream>
+
+1359373930 c:\users\temp.arcinue\documents\github\tic\board.h
+	<iostream>
+
+1358689704 c:\users\temp.arcinue\documents\github\tic\player.h
+	<string>
+	<iostream>
+
+1359374112 source:c:\users\temp.arcinue\documents\github\tic\game.cpp
+	"game.h"
+	"player.h"
+	"board.h"
+	<iostream>
+
+1359373930 c:\users\temp.arcinue\documents\github\tic\game.h
+	"player.h"
+	"board.h"
+	<iostream>
+
+1358689704 source:c:\users\temp.arcinue\documents\github\tic\main.cpp
+	<iostream>
+	"game.h"
+
+1358689704 source:c:\users\temp.arcinue\documents\github\tic\player.cpp
+	"player.h"
+	"Game.h"
+
